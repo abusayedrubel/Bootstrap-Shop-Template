@@ -1,0 +1,42 @@
+
+body{
+    background: #ffffff;
+}
+
+/* Global Styles*/
+.custom-menu{
+    width: 800px;
+    overflow: hidden;
+    padding: 10px;
+}
+
+.tabcontent{
+    display: none;
+}
+
+
+#topbar, #navbarId, #footerId, #newsletter{
+    background: #f9f9f9;
+}
+
+#topbar .custom-topbar{
+    font-size: .80rem;
+}
+
+.navbar ul li a:hover{
+    color: #59B210;
+}
+.carousel-control-prev-icon{
+    background: url(../images/prev.png);
+    width: 48px;
+    height: 44px;
+    background-repeat: no-repeat;
+}
+
+.carousel-control-next-icon{
+    background: url(../images/next.png);
+    width: 48px;
+    height: 44px;
+    background-repeat: no-repeat;
+}
+
